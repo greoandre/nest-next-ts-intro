@@ -2,6 +2,12 @@
 
 This is my practice to introduction with Nest and Next, with guide from Youtube and each documentation.
 
+## Installation
+
+```
+$ yarn add
+```
+
 ## Source
 
 Video tutorial from youtube
@@ -19,37 +25,37 @@ Video tutorial from youtube
 ## Backend
 
 ```
-For Backend, I use GpraphQL, Prisma, Apollo Server with Simple interaction
-How to run the backend?
+#For Backend, I use GpraphQL, Prisma, Apollo Server with Simple interaction
+#How to run the backend?
 
-Go to folder server with command
+#Go to folder server with command
 
-> cd server-nestjs
+$ cd server-nestjs
 
-Just type this on terminal
+#Just type this on terminal
 
-> yarn run dev
+$ yarn run dev
 
-Then go to
+#Then go to
 
-http://localhost:3000/graphql or anything that recommended from terminal
+#http://localhost:3000/graphql or anything that recommended from terminal
 ```
 
 ## Frontend
 
 ```
-For Frontend, I use NextJS and still very simple because just moving around from another route
-But I but I added a custom 404 page, and title metadata for each page.
+#For Frontend, I use NextJS and still very simple because just moving around from another route
+#But I but I added a custom 404 page, and title metadata for each page.
 
-How to run the frontend?
+#How to run the frontend?
 
-Go to folder server with command
-> cd client-nextjs
+#Go to folder server with command
+$ cd client-nextjs
 
-Just type this on terminal
-> yarn dev
-Then go to
-http://localhost:3001 or anything that recommended from terminal
+#Just type this on terminal
+$ yarn dev
+#Then go to
+#http://localhost:3001 or anything that recommended from terminal
 ```
 
 # Thankyou
